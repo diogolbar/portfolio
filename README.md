@@ -6,6 +6,6 @@
 * [Linkedin](https://www.linkedin.com/in/diogolbar/)
 * [Portfolio](diogolbar.github.io)
 
-:email:Contact: diogolbar@gmail.com
+:email: Contact me: diogolbar@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolbar)](https://github.com/anuraghazra/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=diogolbar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
