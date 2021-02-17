@@ -1,4 +1,4 @@
-## Hello! My name is Diogo, welcome to my Github page! :vulcan_salute:
+## Hello! My name is Diogo! :vulcan_salute:
 
 :zap: I love science, books and games.<br/>
 :computer: Currently honing my skills to become a data scientist.<br/>
