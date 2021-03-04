@@ -1,10 +1,10 @@
 # Portfolio
-This is a repository containing projects that I developed in order to hone my skills with python, data analysis and machine learning. The majority of these projects are presented in the form of iPython notebooks.
+This is a repository containing projects that I worked in order to hone my skills with python, data analysis and machine learning. The majority of these projects are presented in the form of iPython notebooks.
 
 ## Contents
 
 * ### Data Analysis
-  * Moneyball: 
+  * [Moneyball](https://github.com/diogolbar/diogolbar.github.io/blob/main/Moneyball/Moneyball.ipynb): Exploratory data analysis to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. Capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python, inspired by the Moneyball book and movie.
   * Data Cleaning:
   * Survey Analysis:
   * Traffic Accident:
