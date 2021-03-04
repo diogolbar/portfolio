@@ -18,3 +18,4 @@ This is a repository containing projects that I worked in order to hone my skill
   * Stock Market Analysis
 
 * ### Micro-Projects
+  * Inferential Statistics:
