@@ -1,11 +1,20 @@
-## Hello! My name is Diogo! :vulcan_salute:
+# Portfolio
+This is a repository containing projects that I developed in order to hone my skills with python, data analysis and machine learning. The majority of these projects are presented in the form of iPython notebooks.
 
-:zap: I love science, books and games.<br/>
-:computer: Currently honing my skills to become a data scientist.<br/>
-:books: More about me:<br/>
-* [Linkedin](https://www.linkedin.com/in/diogolbar/)
-* [Portfolio](diogolbar.github.io)
+## Contents
 
-:email: Contact: diogolbar@gmail.com
+* ### Data Analysis
+  * Moneyball: 
+  * Data Cleaning:
+  * Survey Analysis:
+  * Traffic Accident:
+* ### Machine Learning
+  * Lending Club Loan Prediction: 
+  * Store Item Demand Forecast: By using data from the last five years sales for 50 different items at 10 differente stores, I explore a dataset and use optimization and machine learning techniques to try to predict the next year sales time-series.
+  * Credit Card Fraud Detection:
+  * Facial Mask Recognition:
+  * Uber
+* ### Python for Finance
+  * Stock Market Analysis
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=diogolbar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+* ### Micro-Projects
