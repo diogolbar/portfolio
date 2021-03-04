@@ -4,7 +4,7 @@ This is a repository containing projects that I worked in order to hone my skill
 ## Contents
 
 * ### Data Analysis
-  * [Moneyball](https://github.com/diogolbar/diogolbar.github.io/blob/main/Moneyball/Moneyball.ipynb): Exploratory data analysis to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. Capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python, inspired by the Moneyball book and movie.
+  * [Moneyball](https://github.com/diogolbar/diogolbar.github.io/blob/main/Moneyball/Moneyball.ipynb): Exploratory data analysis to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie.
   * Data Cleaning:
   * Survey Analysis:
   * Traffic Accident:
