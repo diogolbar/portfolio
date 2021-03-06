@@ -5,6 +5,8 @@ This is a repository containing projects that I worked in order to hone my skill
 
 * ### End-to-end Projects
 
+* ### Case Studies
+
 * ### Data Analysis
   
   * [Moneyball](https://github.com/diogolbar/diogolbar.github.io/blob/main/Moneyball/Moneyball.ipynb): Exploratory data analysis to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie.
@@ -31,6 +33,6 @@ This is a repository containing projects that I worked in order to hone my skill
  
   * Stock Market Analysis
 
-* ### Micro-Projects
+* ### Other Projects
  
   * Inferential Statistics:
