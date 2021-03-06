@@ -6,6 +6,11 @@ This is a repository containing projects that I worked in order to hone my skill
 * ### End-to-end Projects
 
 * ### Case Studies
+   * Human Resources:
+   * Marketing:
+   * Production and Maintenance:
+   * Public Relations:
+   * Sales:
 
 * ### Data Analysis
   
@@ -14,8 +19,6 @@ This is a repository containing projects that I worked in order to hone my skill
   * Data Cleaning:
   
   * Survey Analysis:
-  
-  * Traffic Accident:
 
 * ### Machine Learning
 
@@ -24,10 +27,6 @@ This is a repository containing projects that I worked in order to hone my skill
   * Store Item Demand Forecast: By using data from the last five years sales for 50 different items at 10 differente stores, I explore a dataset and use optimization and machine learning techniques to try to predict the next year sales time-series.
 
   * Credit Card Fraud Detection:
-
-  * Facial Mask Recognition:
-
-  * Uber
 
 * ### Python for Finance
  
