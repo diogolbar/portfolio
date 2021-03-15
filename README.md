@@ -13,6 +13,6 @@ Currently all projects are in english.
 
   * Lending Club Loan Prediction: 
 
-  * Store Item Demand Forecast: By using data from the last five years sales for 50 different items at 10 differente stores I explore a dataset and use optimization and machine learning techniques to try to predict next year sales.
+  * Store Item Demand Forecast: By using data from the last five years sales for 50 different items at 10 differente stores I use optimization and machine learning techniques to try to predict next year sales.
 
   * Fraud Detection as Supervised Learning:
