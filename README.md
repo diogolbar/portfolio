@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This is a repository containing projects that I worked in order to hone my skills on python, data analysis and machine learning. The majority of these projects are presented in the form of iPython notebooks. Some projects may still be under development and others may be subject to updates.
+This is a repository containing projects that I worked in order to hone my skills on python, data analysis and machine learning. The majority of these projects are presented in the form of iPython notebooks. Some projects may may be subject to updates.
 
 Currently all projects are in english.
 
