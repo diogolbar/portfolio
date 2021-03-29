@@ -17,7 +17,7 @@ Currently all projects are in english.
   
 * ### End-to-End
   
-  * Demand Forecast: In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle.
+  * [Demand Forecast](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle.
 
 * ### Data Science
 
