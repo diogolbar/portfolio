@@ -7,13 +7,13 @@ Currently all projects are in english.
 
 * ### Data Analysis
   
-  * [Moneyball](https://github/diogolbar/portfolio/blob/main/Moneyball/Moneyball.ipynb): This project is a simple exploratory data analysis and feature engineering to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/portfolio/blob/main/Moneyball/Moneyball.ipynb)
+  * [Moneyball](https://github/diogolbar/portfolio/blob/main/Moneyball): This project is a simple exploratory data analysis and feature engineering to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/portfolio/blob/main/Moneyball/Moneyball.ipynb)
 
 * ### Machine Learning
   
   * Fraud Detection: This project uses data from the IEEE Fraud Detection Challenge. Here a dataset with 400+ features is explored in order to detect and classify frauds from customers' purchases.
 
-  * [Image Classifier](https://github/diogolbar/image-classifier/blob/main/Chihuahua-Muffin.ipynb): In this project a basic neural network architecture is used to distinguish between Chihuahuas and Muffins. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/image-classifier/blob/main/Chihuahua-Muffin.ipynb)
+  * [Image Classifier](https://github.com/diogolbar/image-classifier): In this project a basic neural network architecture is used to distinguish between Chihuahuas and Muffins. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/image-classifier/blob/main/Chihuahua-Muffin.ipynb)
   
 * ### End-to-End
   
