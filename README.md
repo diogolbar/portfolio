@@ -13,7 +13,7 @@ Currently all projects are in english.
   
   * Demand Forecast: In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle.
   
-  * Fraud Detection: This project uses data from the IEEE Fraud Detection Challenge. Here a dataset with 400+ features is explored in order to detect frauds from customers' purchases.
+  * Fraud Detection: This project uses data from the IEEE Fraud Detection Challenge. Here a dataset with 400+ features is explored in order to detect and classify frauds from customers' purchases.
   
 * ### End-to-End
   
