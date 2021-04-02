@@ -13,8 +13,8 @@ Currently all projects are in english.
   
   * Fraud Detection: This project uses data from the IEEE Fraud Detection Challenge. Here a dataset with 400+ features is explored in order to detect and classify frauds from customers' purchases.
 
+  * [Demand Forecast](https://github.com/diogolbar/store-sales-forecast): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle. [Jupyter Notebook](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb)
+
   * [Image Classifier](https://github.com/diogolbar/image-classifier): In this project a basic neural network architecture is used to distinguish between Chihuahuas and Muffins. [Jupyter Notebook](https://nbviewer.jupyter.org/github/diogolbar/image-classifier/blob/main/Chihuahua-Muffin.ipynb)
   
-* ### End-to-End
   
-  * [Demand Forecast](https://github.com/diogolbar/store-sales-forecast): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle. [Jupyter Notebook](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb)
