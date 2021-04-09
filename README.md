@@ -7,9 +7,9 @@ Currently all projects are in english.
 
 * ### Data Analysis
   
-  * [Moneyball](https://github.com/diogolbar/portfolio/tree/main/Moneyball): This project is a simple exploratory data analysis and feature engineering to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie. [Jupyter Notebook](https://nbviewer.jupyter.org/github/diogolbar/portfolio/blob/main/Moneyball/Moneyball.ipynb)
+  * [Moneyball](https://github.com/diogolbar/portfolio/tree/main/Moneyball): This project is a simple exploratory data analysis and feature engineering to try to find replacement players for a team (Oakland Athletics) who just recently lost three key players. This is a capstone project from [Jose Portila's](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) course adapted for python and inspired by the Moneyball book and movie. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/portfolio/blob/main/Moneyball/Moneyball.ipynb)
 
 * ### Machine Learning
 
-  * [Demand Forecast](https://github.com/diogolbar/store-sales-forecast): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle. [Jupyter Notebook](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb)
+  * [Demand Forecast](https://github.com/diogolbar/store-sales-forecast): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb)
   
