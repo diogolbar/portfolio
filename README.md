@@ -12,4 +12,6 @@ Currently all projects are in english.
 * ### Machine Learning
 
   * [Demand Forecast](https://github.com/diogolbar/store-sales-forecast): In this project a standard regression approach is used to forecast multiple time series for the next year sales for 10 stores and 50 items. Data used is available at Kaggle. [Notebook](https://nbviewer.jupyter.org/github/diogolbar/store-sales-forecast/blob/main/DemandTimeSeries.ipynb)
+
+  * [Facial Mask Detection](https://github.com/diogolbar/mask-detection): In this project a Neural Network is combined with OpenCV face detector in order to identify if a person is wearing a mask or not.
   
